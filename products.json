@@ -1,4 +1,5 @@
- vegetables: [
+{
+      vegetables: [
         {
           productId: 3,
           categoryID: 1,
@@ -703,6 +704,5 @@
           productDetails: 'Sweet and juicy plums for a delicious snack.',
           imageLink: 'https://source.unsplash.com/800x600/?plum',
         },
-
-        // ... (add the rest of your vegetables here)
-      ]
+      ],
+    };
