@@ -1,5 +1,4 @@
-{
-      vegetables: [
+ vegetables: [
         {
           productId: 3,
           categoryID: 1,
@@ -706,5 +705,4 @@
         },
 
         // ... (add the rest of your vegetables here)
-      ],
-    }
+      ]
