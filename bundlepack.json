@@ -1,0 +1,81 @@
+{
+    "pack": [
+        {
+            "productId": 0,
+            "categoryID": 11,
+            "isPopular": 0,
+            "size": "Medium",
+            "productName": "Medium Spices Pack",
+            "originalPrice": 15,
+            "revisedPrice": 10,
+            "weight": 0,
+            "rating": 4,
+            "isFavorite": false,
+            "productList": [
+                "MeatFish[0]",
+                "MeatFish[1]",
+                "vegetables[1]"
+            ],
+            "productDetails": "Duis aute veniam veniam qui aliquip irure duis sint magna occaecat dolore nisi culpa do. Est nisi incididunt aliquip commodo aliqua tempor.",
+            "imageLink": "https://source.unsplash.com/800x600/?broccoli"
+        },
+        {
+            "productId": 1,
+            "categoryID": 11,
+            "isPopular": 0,
+            "size": "Large",
+            "productName": "Big Fruits Pack",
+            "originalPrice": 15,
+            "revisedPrice": 10,
+            "weight": 0,
+            "rating": 4,
+            "isFavorite": false,
+            "productList": [
+                "MeatFish[0]",
+                "MeatFish[1]",
+                "vegetables[1]"
+            ],
+            "productDetails": "\"Duis aute veniam veniam qui aliquip irure duis sint magna occaecat dolore nisi culpa do. Est nisi incididunt aliquip commodo aliqua tempor.\"",
+            "imageLink": "https://e7.pngegg.com/pngimages/74/72/png-clipart-grocery-store-kabul-farms-supermarket-food-online-grocer-grocery-food-food-supermarket-thumbnail.png"
+        },
+        {
+            "productId": 20,
+            "categoryID": 11,
+            "isPopular": 1,
+            "size": "Small",
+            "productName": "Small Bundle Pack",
+            "originalPrice": 30,
+            "revisedPrice": 1500,
+            "weight": 20,
+            "rating": 5,
+            "isFavorite": false,
+            "productList": [
+                "product[2]",
+                "product[2]",
+                "product[3]",
+                "product[1]"
+            ],
+            "productDetails": "Duis aute veniam veniam qui aliquip irure duis sint magna occaecat dolore nisi culpa do. Est nisi incididunt aliquip commodo aliqua tempor.",
+            "imageLink": "https://5.imimg.com/data5/MG/FQ/SA/SELLER-283756/all-fmcg-grocery-products.jpg"
+        },
+        {
+            "productId": 30,
+            "categoryID": 11,
+            "isPopular": 1,
+            "size": "Medium",
+            "productName": "Small Fruits Pack",
+            "originalPrice": 15,
+            "revisedPrice": 2270,
+            "weight": 27,
+            "rating": 5,
+            "isFavorite": false,
+            "productList": [
+                "MeatFish[0]",
+                "MeatFish[1]",
+                "vegetables[1]"
+            ],
+            "productDetails": "\"Duis aute veniam veniam qui aliquip irure duis sint magna occaecat dolore nisi culpa do. Est nisi incididunt aliquip commodo aliqua tempor.\"",
+            "imageLink": "https://media.istockphoto.com/id/171302954/photo/groceries.jpg?s=612x612&w=0&k=20&c=D3MmhT5DafwimcYyxCYXqXMxr1W25wZnyUf4PF1RYw8="
+        }
+    ]
+}
