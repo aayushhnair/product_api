@@ -1,0 +1,28 @@
+{
+    "offerbanner": [
+        {
+            "offerID": 1,
+            "bannerImage": "https://s3.ap-south-1.amazonaws.com/public.theretail/OfferBanners/Offer1.png"
+        },
+        {
+            "offerID": 2,
+            "bannerImage": "https://s3.ap-south-1.amazonaws.com/public.theretail/OfferBanners/Offer2.png"
+        },
+        {
+            "offerID": 3,
+            "bannerImage": "https://s3.ap-south-1.amazonaws.com/public.theretail/OfferBanners/Offer3.png"
+        },
+        {
+            "offerID": 4,
+            "bannerImage": "https://s3.ap-south-1.amazonaws.com/public.theretail/OfferBanners/Offer4.png"
+        },
+        {
+            "offerID": 5,
+            "bannerImage": "https://s3.ap-south-1.amazonaws.com/public.theretail/OfferBanners/Offer1.png"
+        },
+        {
+            "offerID": 6,
+            "bannerImage": "https://s3.ap-south-1.amazonaws.com/public.theretail/OfferBanners/Offer2.png"
+        }
+    ]
+}
